@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #222;
+    color: white;
+    font-family: sans-serif;
+}
+
+div {
+    padding: 1rem;
+    text-align: center;
+    margin: 1rem auto;
+    width: 50%;
+    border: 1px solid red;
+}
+
+h1 {
+    color: green;
+    padding: 1rem;
+    text-align: center;
+    margin: 1rem auto;
+    width: 50%;
+}
